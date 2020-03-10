@@ -1,3 +1,9 @@
+#Avoid Data Folders/Models
+
+models/*
+data/*
+prediction/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
